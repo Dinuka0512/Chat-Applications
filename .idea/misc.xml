@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/BasicChat/pom.xml" />
+        <option value="$PROJECT_DIR$/BasicChat-V2/pom.xml" />
       </list>
     </option>
   </component>
