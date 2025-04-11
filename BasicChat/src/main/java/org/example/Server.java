@@ -7,6 +7,10 @@ import java.net.Socket;
 
 public class Server {
     public static void main(String[] args) throws IOException {
+        /*
+        * THERE FIRSTLY WE NEED TO RUN THE SERVER
+        * */
+
         ServerSocket serverSocket = new ServerSocket(5000);
         System.out.println("Server Started!");
 
